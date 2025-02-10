@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">promedioNotas</string>
+    <string name="btnEvaluar">EVALUAR</string>
+    <string name="tvResultado">Estatus de nota</string>
+    <string name="etNumero1">Ingrese primera nota</string>
+    <string name="etNumero2">Ingrese segunda nota</string>
+    <string name="etNumero3">Ingrese tercer nota</string>
+
 </resources>
